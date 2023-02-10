@@ -1,1 +1,1 @@
-this is a repo for shell basics
+Task 0. Where am I?
